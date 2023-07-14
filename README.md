@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Bansal</h1>
-<h3 align="center">Former SDE Intern @ JPMorgan Chase & Co. || Finalist Smart India Hackathon 2022</h3>
+<h3 align="center">SDE @ JPMorgan Chase & Co. || Finalist Smart India Hackathon 2022</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1109&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1109" /> </p>
 
